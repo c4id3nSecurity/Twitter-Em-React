@@ -10,7 +10,7 @@ Este é um clone simplificado do Twitter construído com React.
 ## Como instalar
 
 1. Clone este repositório:
-git clone https://github.com/seu-usuario/twitter-clone
+git clone https://github.com/c4id3nSecurity/Twitter-Em-React.git
 
 2. Instale as dependências:
 npm install
